@@ -1,0 +1,1 @@
+# lg-tourism-digital-hub-interoperabilita-english
