@@ -5,5 +5,5 @@ CHAPTER 1 – INTRODUCTION
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  chapter-1-introduction/background.rst
-  chapter-1-introduction/purpose-of-the-document.rst
+  chapter-1-introduction/1-background.rst
+  chapter-1-introduction/2-purpose-of-the-document.rst
