@@ -55,8 +55,8 @@ Date: 22/02/2022
 
 `3.9 Model Governance <#model-governance>`__
 
-`CAPITOLO 4 – SOFTWARE SYSTEM PLATFORM
-<#capitolo-4-software-system-platform>`__
+`CHAPTER 4 – SOFTWARE SYSTEM PLATFORM
+<#chapter-4-software-system-platform>`__
 
 `4.1 Software System Platform <#software-system-platform>`__
 
@@ -115,7 +115,7 @@ the contractual model
   chapter-1-introduction.rst
   chapter-2-references-and-abbreviations.rst
   chapter-3-general-principles.rst
-  capitolo-4-software-system-platform.rst
+  chapter-4-software-system-platform.rst
   chapter-5---interoperability-and-api.rst
   chapter-6-ontologies-in-tdh.rst
   chapter-7-contract-terms-and-participation-to-tdh.rst
