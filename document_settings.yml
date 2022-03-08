@@ -1,17 +1,12 @@
 document:
-  name: TDH022 – TECHNICAL INTEROPERABILITY GUIDELINES AND API MANAGEMENT
+  name: "Tourism Digital Hub - Interoperability Guidelines"
   description: |
-    These Guidelines define standards 
-    and technologies that Public 
-    Administrations will have to comply
-    with to make their information 
-    systems interoperable, in order to
-    allow the information and data exchange
-    between Administrations (central, regional
-    and local), Public Entities and Third-Party
-    Companies with the TDH Digital Ecosystem, 
-    henceforth "Ecosystem" or "TDH", through 
-    the TDH022.   
+    These Guidelines define standards and technologies that Public 
+    Administrations will have to comply with to make their information 
+    systems interoperable, in order to allow the information and data exchange
+    between Administrations (central, regional and local), Public Entities and 
+    Third-Party Companies with the TDH Digital Ecosystem,henceforth "Ecosystem" 
+    or "TDH", through the TDH022.   
   tags:
     - Tourism
     - Interoperability
